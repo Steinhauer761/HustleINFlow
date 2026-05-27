@@ -1,0 +1,80 @@
+{
+  "export_metadata": {
+    "exported_at": "2026-05-27T09:50:54Z",
+    "export_version": "1.0",
+    "repository_name": "HustleINFlow",
+    "owner": "Steinhauer761"
+  },
+  "repository": {
+    "id": 1251158785,
+    "name": "HustleINFlow",
+    "full_name": "Steinhauer761/HustleINFlow",
+    "description": "HustleINFlow Description: \"All-in-one family helper with AI, schedules, profiles, and more\"",
+    "html_url": "https://github.com/Steinhauer761/HustleINFlow",
+    "owner": {
+      "login": "Steinhauer761",
+      "id": 162620235,
+      "avatar_url": "https://avatars.githubusercontent.com/u/162620235?v=4",
+      "type": "User"
+    },
+    "private": false,
+    "visibility": "public",
+    "created_at": "2026-05-27T09:50:54Z",
+    "pushed_at": "2026-05-27T09:50:54Z",
+    "size": 0,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "default_branch": "main",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_squash_merge": true
+  },
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "c5074c49d7461ad400846c8108c8a65b1d61c566"
+      },
+      "protected": false
+    }
+  ],
+  "commits": [
+    {
+      "sha": "c5074c49d7461ad400846c8108c8a65b1d61c566",
+      "message": "Initial commit",
+      "author": {
+        "name": "Jeffrey steinhauer",
+        "email": "162620235+Steinhauer761@users.noreply.github.com",
+        "date": "2026-05-27T09:50:53Z"
+      },
+      "verification": {
+        "verified": true
+      }
+    }
+  ],
+  "files": [
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "type": "file",
+      "size": 107,
+      "content": "# HustleINFlow\nHustleINFlow Description: \"All-in-one family helper with AI, schedules, profiles, and more\"\n"
+    }
+  ],
+  "issues": [],
+  "pull_requests": [],
+  "workflows": [],
+  "summary": {
+    "total_branches": 1,
+    "total_commits": 1,
+    "total_files": 1,
+    "total_issues": 0,
+    "total_pull_requests": 0,
+    "status": "New repository - initial commit only"
+  }
+}
